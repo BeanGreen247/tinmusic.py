@@ -35,5 +35,5 @@ Current
 Supported files (more will not be added)
 * wav
 
-#Bugs
+# Bugs
 * Emotes cause app to crash if present in file name
